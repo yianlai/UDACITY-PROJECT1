@@ -1,0 +1,57 @@
+#table-picture {
+    width: 100%;
+}
+
+table {
+    table-layout: fixed;
+}
+
+#iconimg {
+    max-width: 70%;
+}
+
+#name {
+    color: #707070;
+    font-size: 4.2vw;
+    text-align: right;
+    margin-top: 75px;
+}
+
+#ninja {
+    color: #a8a8a8;
+    font-size: 2.2vw;
+    margin-top: 1px;
+    text-align: right;
+}
+
+#line {
+    top: 145px;
+    left: 10px;
+    height: 8px;
+    width: 100%;
+    border-style: solid;
+    border-color: #ffccff;
+    color: #ffccff;
+    background-color: #ffccff;
+}
+
+#southland {
+    width: 100%;
+}
+
+#featurework {
+    font-size: 4.2vw;
+}
+
+.seal {
+    width: 100%;
+}
+
+.babyseal-text {
+    font-size: 2.2vw;
+}
+
+.link-text {
+    font-size: 1.2vw;
+}
+
